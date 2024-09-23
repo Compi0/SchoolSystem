@@ -21,9 +21,12 @@ This project is a Python-based application developed for the "Solidaridad" Prima
 
 # Prerequisites
 
-  Python 3.x installed on your machine.
+- Python 3.x installed on your machine.
+- Install tkinter for the GUI
+  ```bash
+  pip install tk
 
-```bash
-pip install tk
-
+- Install customtkinter
+  ```bash
+  pip install customtkinter
 

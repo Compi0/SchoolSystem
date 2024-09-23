@@ -1,0 +1,178 @@
+[
+    {
+        "id_pedido": 1,
+        "id_material": 4,
+        "id_maestro": 2,
+        "cantidad": 2,
+        "fecha_asignacion": "2024-04-25 17:27:18",
+        "estatus": 0
+    },
+    {
+        "id_pedido": 2,
+        "id_material": 4,
+        "id_maestro": 2,
+        "cantidad": 2,
+        "fecha_asignacion": "2024-04-25 17:27:18",
+        "estatus": 0
+    },
+    {
+        "id_pedido": 3,
+        "id_material": 8,
+        "id_maestro": 5,
+        "cantidad": 7,
+        "fecha_asignacion": "2024-04-28 01:11:48",
+        "estatus": 1
+    },
+    {
+        "id_pedido": 4,
+        "id_material": 1,
+        "id_maestro": 1,
+        "cantidad": 1,
+        "fecha_asignacion": "2024-05-02 16:37:04",
+        "estatus": 1
+    },
+    {
+        "id_pedido": 5,
+        "id_material": 7,
+        "id_maestro": 1,
+        "cantidad": 2,
+        "fecha_asignacion": "2024-05-08 21:32:02",
+        "estatus": 1
+    },
+    {
+        "id_pedido": 6,
+        "id_material": 2,
+        "id_maestro": 2,
+        "cantidad": 2,
+        "fecha_asignacion": "2024-05-11 21:22:13",
+        "estatus": 1
+    },
+    {
+        "id_pedido": 7,
+        "id_material": 2,
+        "id_maestro": 2,
+        "cantidad": 2,
+        "fecha_asignacion": "2024-05-15 17:26:22",
+        "estatus": 1
+    },
+    {
+        "id_pedido": 8,
+        "id_material": 1,
+        "id_maestro": 1,
+        "cantidad": 1,
+        "fecha_asignacion": "2024-05-16 16:48:51",
+        "estatus": 1
+    },
+    {
+        "id_pedido": 9,
+        "id_material": 4,
+        "id_maestro": 5,
+        "cantidad": 30,
+        "fecha_asignacion": "2024-05-16 16:49:39",
+        "estatus": 1
+    },
+    {
+        "id_pedido": 10,
+        "id_material": 5,
+        "id_maestro": 2,
+        "cantidad": 1,
+        "fecha_asignacion": "2024-05-16 16:55:04",
+        "estatus": 1
+    },
+    {
+        "id_pedido": 11,
+        "id_material": 1,
+        "id_maestro": 1,
+        "cantidad": 1,
+        "fecha_asignacion": "2024-05-16 16:57:14",
+        "estatus": 1
+    },
+    {
+        "id_pedido": 12,
+        "id_material": 5,
+        "id_maestro": 5,
+        "cantidad": 5,
+        "fecha_asignacion": "2024-05-16 17:01:52",
+        "estatus": 1
+    },
+    {
+        "id_pedido": 13,
+        "id_material": 4,
+        "id_maestro": 2,
+        "cantidad": 50,
+        "fecha_asignacion": "2024-05-16 17:03:25",
+        "estatus": 1
+    },
+    {
+        "id_pedido": 14,
+        "id_material": 4,
+        "id_maestro": 3,
+        "cantidad": 10,
+        "fecha_asignacion": "2024-05-16 17:05:02",
+        "estatus": 0
+    },
+    {
+        "id_pedido": 15,
+        "id_material": 8,
+        "id_maestro": 6,
+        "cantidad": 30,
+        "fecha_asignacion": "2024-05-16 13:44:32",
+        "estatus": 0
+    },
+    {
+        "id_pedido": 16,
+        "id_material": 12,
+        "id_maestro": 2,
+        "cantidad": 10,
+        "fecha_asignacion": "2024-05-21 16:41:50",
+        "estatus": 1
+    },
+    {
+        "id_pedido": 17,
+        "id_material": 14,
+        "id_maestro": 4,
+        "cantidad": 7,
+        "fecha_asignacion": "2024-05-21 20:31:09",
+        "estatus": 0
+    },
+    {
+        "id_pedido": 18,
+        "id_material": 3,
+        "id_maestro": 3,
+        "cantidad": 1,
+        "fecha_asignacion": "2024-05-21 20:49:46",
+        "estatus": 0
+    },
+    {
+        "id_pedido": 19,
+        "id_material": 1,
+        "id_maestro": 8,
+        "cantidad": 11,
+        "fecha_asignacion": "2024-05-21 22:49:32",
+        "estatus": 0
+    },
+    {
+        "id_pedido": 20,
+        "id_material": 1,
+        "id_maestro": 8,
+        "cantidad": 9,
+        "fecha_asignacion": "2024-05-21 22:50:06",
+        "estatus": 0
+    },
+    {
+        "id_pedido": 21,
+        "id_material": 4,
+        "id_maestro": 9,
+        "cantidad": 2,
+        "fecha_asignacion": "2024-05-21 23:07:04",
+        "estatus": 0
+    },
+    {
+        "id_pedido": 22,
+        "id_material": 4,
+        "id_maestro": 9,
+        "cantidad": 2,
+        "fecha_asignacion": "2024-05-21 23:07:05",
+        "estatus": 0
+    }
+]

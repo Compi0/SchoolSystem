@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "nombre": "Cartulinas",
+        "cant": 32
+    },
+    {
+        "id": 2,
+        "nombre": "Grapadoras",
+        "cant": 4
+    },
+    {
+        "id": 3,
+        "nombre": "Servidor",
+        "cant": 1
+    },
+    {
+        "id": 4,
+        "nombre": "Lapices",
+        "cant": 104
+    },
+    {
+        "id": 5,
+        "nombre": "Borradores",
+        "cant": 10
+    },
+    {
+        "id": 6,
+        "nombre": "plumon",
+        "cant": 5
+    },
+    {
+        "id": 7,
+        "nombre": "Plumas",
+        "cant": 8
+    },
+    {
+        "id": 8,
+        "nombre": "papel",
+        "cant": 75
+    },
+    {
+        "id": 9,
+        "nombre": "Tijeras",
+        "cant": "23"
+    },
+    {
+        "id": 10,
+        "nombre": "Pizarrones",
+        "cant": 32
+    }
+]

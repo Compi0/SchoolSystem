@@ -23,8 +23,7 @@ This project is a Python-based application developed for the "Solidaridad" Prima
 
   Python 3.x installed on your machine.
 
-'''bash
+```bash
 pip install tk
 
-'''bash
-pip install customtkinter
+
